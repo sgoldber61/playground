@@ -1,0 +1,12 @@
+{
+  "name": "financial-report-toolkit",
+  "version": "0.0.1",
+  "description": "Internal tool for NBC Universal film financial reporting",
+  "main": "index.js",
+  "author": "MindLabs",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "electron": "^2.0.8"
+  }
+}
