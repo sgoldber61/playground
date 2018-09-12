@@ -12,7 +12,8 @@
     "dev": "npm-run-all --parallel bundle-dev start"
   },
   "dependencies": {
-    "electron": "^2.0.8"
+    "electron": "^2.0.8",
+    "lodash": "^4.17.10"
   },
   "devDependencies": {
     "babel": "^6.23.0",
